@@ -5,6 +5,6 @@ Raspberry Pi powered light installation trigger by [Neurosky EGG headset](https:
 
 It is part of the [Make+ program](http://we-make-money-not-art.com/make/) organizaed by [Xinchejian Maker Space](https://xinchejian.com/) in Shanghai. 
 
-Project website:[http://thexcollective.weebly.com/](http://thexcollective.weebly.com/)
+Please [the X collective website](http://thexcollective.weebly.com/) for more information.
 
-![](http://thexcollective.weebly.com/uploads/3/0/4/8/30482202/6168314_orig.jpg)
+![](http://thexcollective.weebly.com/uploads/3/0/4/8/30482202/502597_orig.jpg)
